@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.user-container {
+    width: 200px;
+    height: 500p;
+
+}
+
+.avatar {
+    width: 100%;
+    height: 200px;
+    background-color: red;
+}
